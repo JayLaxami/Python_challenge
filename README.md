@@ -9,7 +9,7 @@ After, cloning, folders PyBank and PyPoll each having 'main.py' and 'Resources' 
 For PyBank: 
 
 
-     ![image](https://user-images.githubusercontent.com/119129801/212496023-e69515c2-c5c1-45b8-b147-90364b913b9c.png)
+ ![image](https://user-images.githubusercontent.com/119129801/212496023-e69515c2-c5c1-45b8-b147-90364b913b9c.png)
      
 This is the analysis output in text file.
 
