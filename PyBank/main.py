@@ -9,6 +9,7 @@ total_months= 0
 net_profit_loss= 0
 changes_profit_loss= 0
 average_change= 0
+#Assign float(infinite) variable to max increase and decrease 
 max_increase= float('-inf')
 max_decrease= float('inf')
 month_max_increase= ""
@@ -73,7 +74,7 @@ output = (
     f"...................\n"
     f"Total Months {total_months}\n"
     f"Total ${net_profit_loss}\n"
-    f"Average Change ${average_change}\n"
+    f"Average Change ${round(average_change,2)}\n"
     f"Greatest Increase in Profits: {month_max_increase} (${max_increase})\n"
     f"Greatest Decrease in Profits: {month_max_decrease} (${max_decrease})"
     )
